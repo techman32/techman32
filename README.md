@@ -1,5 +1,5 @@
 ## My General stack
-[![General](https://skillicons.dev/icons?i=js,ts,jest)](https://skillicons.dev)
+[![General](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 
 ## My Frontend stack
 [![Frontend](https://skillicons.dev/icons?i=html,css,sass,react,redux,nextjs,tailwind)](https://skillicons.dev)
